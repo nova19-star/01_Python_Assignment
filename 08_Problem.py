@@ -5,5 +5,5 @@ length = float(input("Enter the length of the rectangle (in meters): "))
 breadth = float(input("Enter the breadth of the rectangle (in meters): "))
 perimeter = 2 * (length + breadth)
 area = length * breadth
-print("Perimeter of the rectangle:", perimeter, "meters")
-print("Area of the rectangle:", area, "meter ssquare")
+print("Perimeter of the rectangle:", perimeter)
+print("Area of the rectangle:", area)

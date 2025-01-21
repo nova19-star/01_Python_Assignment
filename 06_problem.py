@@ -1,7 +1,7 @@
 # Write a python program to swap two numbers with using third variable
 
-num1 = int(input("Enter a number: "))
-num2 = int(input("Enter a number: "))
+num1 = int(input("Enter the 1st number: "))
+num2 = int(input("Enter the 2nd number: "))
 temp = num1
 num1 = num2
 num2 = temp
